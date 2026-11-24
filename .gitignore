@@ -1,0 +1,10 @@
+# Archivos compilados
+bin/
+*.class
+
+# Material de apoyo que no forma parte del repositorio
+docs/Guion_Presentacion.pdf
+docs/Guion_Codigo.pdf
+docs/Presentacion_Conjuntos.pptx
+README_Ejemplo.md
+CuadroDeColores.drawio
